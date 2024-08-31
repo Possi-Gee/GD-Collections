@@ -1,0 +1,46 @@
+Body{ background-color:maroon ;
+
+}
+Ol{color:black;}
+p{ color:white;
+font-style:century;
+font-size:25px;} 
+a{color: black;}
+ul{
+    float:center;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    background-color: white;
+}
+li{ list-style: none;
+margin-left:27px;
+margin-top: 20px;
+font-size:18px;}
+ul li a:hover {
+    color:rgb(147, 4, 4)
+}
+h4{
+    Font-size:20px;
+    color:white;
+    font-style:italic;
+    background-color:black;
+}
+i{
+    display: inline-block;
+width:100px;
+background-color: rgb(250, 255, 240);
+border-radius: 60px;
+line-height: 60px;
+    text-align: center;
+}
+i{ color:rgb(210, 59, 85);
+font-size: 25px;}
+i{float:right;
+    display: flex;}
+    i:hover{ color:black;}
+   a:hover{
+        width:120px;
+        transition: 0.7s;
+    }
+
